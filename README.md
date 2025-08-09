@@ -5,40 +5,34 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Elixer-2
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Prajul P - CUSAT
+- Member 2: GS Navajith - CUSAT
 
+  
 ### Project Description
-[2-3 lines about what your project does]
+A fun, sarcastic weather web app where users enter their latitude and longitude to get real-time weather updates using the OpenWeatherMap API. It delivers the temperature, conditions, and a witty comment based on the weather. Built with plain HTML, CSS, and JavaScript—no frameworks required.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+How the weather will affect you that day.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+There isnt one
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-Java Script, Html, CSS used
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Lenovo LOQ
 
 ### Implementation
 For Software:
 # Installation
-[commands]
 
 # Run
 [commands]
@@ -47,52 +41,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="Screenshot 2025-08-09 141819" src="https://github.com/user-attachments/assets/42b67635-5a7f-49c3-8286-a9373edbf940" />
+Here,it shows the current weather details
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Prajul P: build the website
+- Navajith: build the website
 
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
