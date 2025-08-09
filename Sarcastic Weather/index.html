@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcastic Weather</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sarcastic Weather</h1>
+        <div class="input-section">
+            <input type="text" id="latitude" placeholder="Enter Latitude">
+            <input type="text" id="longitude" placeholder="Enter Longitude">
+            <button id="getWeather">Get Weather</button>
+        </div>
+        <div class="weather-display">
+            <p id="temperature"></p>
+            <p id="condition"></p>
+            <p id="sarcasm"></p>
+        </div>
+        <p id="error" class="error"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
